@@ -14,6 +14,7 @@
 		2CDAEF012A13631400F118E0 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CDAEF002A13631400F118E0 /* Extensions.swift */; };
 		2CDAEF032A13691F00F118E0 /* TransactionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CDAEF022A13691F00F118E0 /* TransactionModel.swift */; };
 		2CDAEF052A1369EA00F118E0 /* PreviewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CDAEF042A1369EA00F118E0 /* PreviewData.swift */; };
+		2CDAEF072A13D93D00F118E0 /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CDAEF062A13D93D00F118E0 /* TransactionRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		2CDAEF002A13631400F118E0 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		2CDAEF022A13691F00F118E0 /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
 		2CDAEF042A1369EA00F118E0 /* PreviewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewData.swift; sourceTree = "<group>"; };
+		2CDAEF062A13D93D00F118E0 /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				2CDAEEF22A135D7200F118E0 /* ExpenseTrackerApp.swift */,
 				2CDAEEF42A135D7200F118E0 /* ContentView.swift */,
+				2CDAEF062A13D93D00F118E0 /* TransactionRow.swift */,
 				2CDAEF022A13691F00F118E0 /* TransactionModel.swift */,
 				2CDAEF002A13631400F118E0 /* Extensions.swift */,
 				2CDAEEF62A135D7300F118E0 /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 				2CDAEF052A1369EA00F118E0 /* PreviewData.swift in Sources */,
 				2CDAEF032A13691F00F118E0 /* TransactionModel.swift in Sources */,
 				2CDAEEF52A135D7200F118E0 /* ContentView.swift in Sources */,
+				2CDAEF072A13D93D00F118E0 /* TransactionRow.swift in Sources */,
 				2CDAEF012A13631400F118E0 /* Extensions.swift in Sources */,
 				2CDAEEF32A135D7200F118E0 /* ExpenseTrackerApp.swift in Sources */,
 			);
